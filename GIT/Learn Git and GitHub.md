@@ -22,7 +22,7 @@ output:
 creates new Git repository
 git status<br>
 output: 
-inspects the contents of the working directory and staging area
+inspects the contents of the working directory and staging area: untracked files and files staged for commit
 git add filename<br>
 output:
 adds files from the working directory to the staging area
@@ -53,3 +53,4 @@ Description: Maintained a Meal Regimens file (meal-regimens.txt). This file expl
 <br>
 <h2>Project #2 SnapFit Robots, Inc.</h2>
 <br>
+Description: Created git repository. 

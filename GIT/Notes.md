@@ -11,7 +11,7 @@ GitHub - web-based graphical interfrace with man yof its own added features for 
 
 #
 <h1>Commands</h1>h
-ls
+<br>ls</br>
 cd
 git clone [copy link]
 git checkout -b

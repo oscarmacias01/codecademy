@@ -11,9 +11,9 @@ GitHub - web-based graphical interfrace with man yof its own added features for 
 
 #
 <h1>Commands</h1>h
-<br>ls</br>
-cd
-git clone [copy link]
-git checkout -b
-nano
-git commit -m "comment"
+ls<br>
+cd<br>
+git clone [copy link]<br>
+git checkout -b<br>
+nano<br>
+git commit -m "comment"<br>

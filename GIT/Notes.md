@@ -17,3 +17,5 @@ git clone [copy link]<br>
 git checkout -b<br>
 nano<br>
 git commit -m "comment"<br>
+<b>git init </b> - init = <i>initialize</i>
+#
